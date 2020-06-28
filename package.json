@@ -68,6 +68,7 @@
     "lodash.flatmap": "^4.5.0",
     "lodash.frompairs": "^4.0.1",
     "match-sorter": "^4.1.0",
+    "offline-plugin": "^5.0.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "smoothscroll-polyfill": "^0.4.4",
